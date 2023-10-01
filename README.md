@@ -1,3 +1,3 @@
-# THIS IS MY FIRST GOAL 
-![IMAGE](./image.png)
+# THIS IS MY FIRST GOAL
 
+![Alt text](image.png.jpg)
